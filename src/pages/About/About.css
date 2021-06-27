@@ -1,0 +1,87 @@
+.AboutPageStyles {
+  padding: 20rem 0 10rem 0;
+}
+
+.top-section {
+  display: flex;
+
+  justify-content: center;
+  gap: 2rem;
+}
+
+.left {
+  flex: 3;
+  align-items: left;
+}
+.right {
+  flex: 2;
+}
+
+.about-subheading {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+}
+
+.about-subheading span {
+  background-color: var(--deep-dark);
+  padding: 0.5rem;
+  border-radius: 8px;
+  font-size: 22px;
+}
+
+.about-heading {
+  font-size: 3.6rem;
+  margin-bottom: 3rem;
+}
+
+.about-info {
+  margin-bottom: 4rem;
+}
+
+.aboutInfo-text {
+  max-width: 100%;
+  text-align: left;
+}
+
+.right img {
+  border: 2px solid var(--gray-1);
+}
+
+.AboutPageStyles .container {
+  text-align: left;
+}
+
+.about-info-items {
+  margin-top: 15rem;
+}
+
+.about-info-item {
+  margin-bottom: 10rem;
+}
+
+.about-info-heading {
+  font-size: 3.6rem;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 768px) {
+  .about-info-heading {
+    font-size: 3rem;
+  }
+  .AboutPageStyles {
+    padding: 10rem 0;
+  }
+  .top-section {
+    flex-direction: column;
+    gap: 5rem;
+  }
+  .about-subheading {
+    font-size: 3rem;
+  }
+  .about-heading {
+    font-size: 2.8rem;
+  }
+  .about-info-subheading {
+    font-size: 3rem;
+  }
+}

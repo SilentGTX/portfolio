@@ -1,0 +1,113 @@
+Date : 2021-06-27 12:49:32
+Directory : c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio
+Total : 57 files,  40046 codes, 43 comments, 232 blanks, all 40321 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     38,271 |          0 |          3 |     38,274 |
+| JavaScript |         27 |        863 |         11 |         59 |        933 |
+| CSS        |         23 |        848 |          9 |        134 |        991 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
+| XML        |          2 |          6 |          0 |          2 |          8 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         57 |     40,046 |         43 |        232 |     40,321 |
+| public                                                                                                             |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                                |         52 |      1,717 |         20 |        195 |      1,932 |
+| src\assets                                                                                                         |          4 |         69 |          0 |          6 |         75 |
+| src\assets\data                                                                                                    |          2 |         63 |          0 |          4 |         67 |
+| src\assets\images                                                                                                  |          2 |          6 |          0 |          2 |          8 |
+| src\components                                                                                                     |         32 |      1,243 |         12 |        141 |      1,396 |
+| src\components\AboutInfoItem                                                                                       |          2 |         54 |          0 |          7 |         61 |
+| src\components\AboutSections                                                                                       |          2 |        108 |          0 |         11 |        119 |
+| src\components\Button                                                                                              |          2 |         33 |          0 |          5 |         38 |
+| src\components\ContactBanner                                                                                       |          2 |         37 |          0 |          7 |         44 |
+| src\components\ContactSection                                                                                      |          2 |         15 |          0 |          3 |         18 |
+| src\components\Footer                                                                                              |          2 |        131 |          0 |         11 |        142 |
+| src\components\FooterCol                                                                                           |          2 |         52 |          0 |          7 |         59 |
+| src\components\Hello                                                                                               |          2 |        211 |         11 |         22 |        244 |
+| src\components\NavMenu                                                                                             |          2 |        160 |          0 |         12 |        172 |
+| src\components\ProjectItem                                                                                         |          2 |         56 |          0 |          9 |         65 |
+| src\components\ProjectsSection                                                                                     |          2 |         95 |          0 |          9 |        104 |
+| src\components\SectionTitle                                                                                        |          2 |         43 |          1 |          8 |         52 |
+| src\components\ServiceSection                                                                                      |          2 |         54 |          0 |          5 |         59 |
+| src\components\ServicesSectionItem                                                                                 |          2 |         32 |          0 |          6 |         38 |
+| src\components\TestimonialsSection                                                                                 |          2 |        143 |          0 |         16 |        159 |
+| src\components\ivanInfo                                                                                            |          2 |         19 |          0 |          3 |         22 |
+| src\pages                                                                                                          |          8 |        262 |          1 |         33 |        296 |
+| src\pages\About                                                                                                    |          2 |        136 |          0 |         17 |        153 |
+| src\pages\Contact                                                                                                  |          2 |          9 |          0 |          3 |         12 |
+| src\pages\Home                                                                                                     |          2 |         22 |          1 |          3 |         26 |
+| src\pages\Projects                                                                                                 |          2 |         95 |          0 |         10 |        105 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\README.md                                                  | Markdown   |         38 |          0 |         33 |         71 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\package-lock.json                                          | JSON       |     38,203 |          0 |          1 |     38,204 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\package.json                                               | JSON       |         43 |          0 |          1 |         44 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\public\index.html                                          | HTML       |         20 |         23 |          1 |         44 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\public\manifest.json                                       | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\App.css                                                | CSS        |         34 |          0 |          2 |         36 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\App.js                                                 | JavaScript |         39 |          0 |          2 |         41 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\App.test.js                                            | JavaScript |          7 |          0 |          2 |          9 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\Typography.css                                         | CSS        |         26 |          0 |          1 |         27 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\assets\data\projects.js                                | JavaScript |         36 |          0 |          3 |         39 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\assets\data\testimonials.js                            | JavaScript |         27 |          0 |          1 |         28 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\assets\images\scroll-down-arrow.svg                    | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\assets\images\social-media-arrow.svg                   | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\AboutInfoItem\AboutInfoItem.css             | CSS        |         35 |          0 |          5 |         40 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\AboutInfoItem\AboutInfoItem.js              | JavaScript |         19 |          0 |          2 |         21 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\AboutSections\AboutSection.css              | CSS        |         72 |          0 |          9 |         81 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\AboutSections\AboutSection.js               | JavaScript |         36 |          0 |          2 |         38 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Button\Button.css                           | CSS        |         21 |          0 |          3 |         24 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Button\Button.js                            | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ContactBanner\ContactBanner.css             | CSS        |         21 |          0 |          5 |         26 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ContactBanner\ContactBanner.js              | JavaScript |         16 |          0 |          2 |         18 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ContactSection\ContactSection.css           | CSS        |          3 |          0 |          1 |          4 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ContactSection\ContactSection.js            | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\FooterCol\FooterCol.css                     | CSS        |         15 |          0 |          5 |         20 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\FooterCol\FooterCol.js                      | JavaScript |         37 |          0 |          2 |         39 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Footer\Footer.css                           | CSS        |         45 |          0 |          9 |         54 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Footer\Footer.js                            | JavaScript |         86 |          0 |          2 |         88 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Hello\Hello.css                             | CSS        |        145 |          8 |         20 |        173 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\Hello\Hello.js                              | JavaScript |         66 |          3 |          2 |         71 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\NavMenu\NavMenu.css                         | CSS        |         84 |          0 |         10 |         94 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\NavMenu\NavMenu.js                          | JavaScript |         76 |          0 |          2 |         78 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ProjectItem\ProjectItem.css                 | CSS        |         32 |          0 |          7 |         39 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ProjectItem\ProjectItem.js                  | JavaScript |         24 |          0 |          2 |         26 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ProjectsSection\ProjectsSection.css         | CSS        |         42 |          0 |          6 |         48 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ProjectsSection\ProjectsSection.js          | JavaScript |         53 |          0 |          3 |         56 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\SectionTitle\SectionTitle.css               | CSS        |         26 |          1 |          6 |         33 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\SectionTitle\SectionTitle.js                | JavaScript |         17 |          0 |          2 |         19 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ServiceSection\ServiceSection.css           | CSS        |         19 |          0 |          3 |         22 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ServiceSection\ServiceSection.js            | JavaScript |         35 |          0 |          2 |         37 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ServicesSectionItem\ServicesSectionItem.css | CSS        |         14 |          0 |          4 |         18 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ServicesSectionItem\ServicesSectionItem.js  | JavaScript |         18 |          0 |          2 |         20 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\TestimonialsSection\TestimonialsSection.css | CSS        |         77 |          0 |         12 |         89 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\TestimonialsSection\TestimonialsSection.js  | JavaScript |         66 |          0 |          4 |         70 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ivanInfo\ivanInfo.css                       | CSS        |         11 |          0 |          1 |         12 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\components\ivanInfo\ivanInfo.js                        | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\index.css                                              | CSS        |         12 |          0 |          2 |         14 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\index.js                                               | JavaScript |         12 |          3 |          3 |         18 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\About\About.css                                  | CSS        |         73 |          0 |         15 |         88 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\About\About.js                                   | JavaScript |         63 |          0 |          2 |         65 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Contact\Contact.css                              | CSS        |          0 |          0 |          1 |          1 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Contact\Contact.js                               | JavaScript |          9 |          0 |          2 |         11 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Home\Home.css                                    | CSS        |          3 |          0 |          1 |          4 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Home\Home.js                                     | JavaScript |         19 |          1 |          2 |         22 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Projects\Projects.css                            | CSS        |         38 |          0 |          6 |         44 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\pages\Projects\Projects.js                             | JavaScript |         57 |          0 |          4 |         61 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\reportWebVitals.js                                     | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\origi\OneDrive\Desktop\     \ReactJS\portfolio\src\setupTests.js                                          | JavaScript |          1 |          4 |          1 |          6 |
+| Total                                                                                                              |            |     40,046 |         43 |        232 |     40,321 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

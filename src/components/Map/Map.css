@@ -1,0 +1,41 @@
+.MapStyles {
+  background: url(../../assets/images/map.png) no-repeat center / cover;
+  min-height: 400px;
+}
+
+.MapStyles .container {
+  position: relative;
+  min-height: 400px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.map-card {
+  text-align: left;
+  position: absolute;
+  right: 30%;
+  bottom: 15%;
+  padding: 2rem;
+  background: var(--deep-dark);
+  width: 100%;
+  max-width: 300px;
+  border-radius: 12px;
+}
+
+.map-card-heading {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.map-card-link {
+  display: inline-block;
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+  .MapStyles {
+    background-position: 75% center;
+  }
+}

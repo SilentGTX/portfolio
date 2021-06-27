@@ -1,0 +1,80 @@
+.about-info {
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 1.8rem;
+  line-height: 1.3em;
+}
+
+#az2 {
+}
+
+.AboutSectionStyles {
+  padding: 10rem 0;
+}
+
+#about-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.aboutSection-left,
+.aboutSection-right {
+  flex: 1;
+}
+
+.section-title {
+  text-align: left;
+}
+
+.about-info {
+  margin-top: 2rem;
+  margin-left: 0;
+}
+.aboutSection-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 2rem;
+  gap: 2rem;
+}
+
+@media only screen and (max-width: 950px) {
+  .aboutSection-left {
+    flex: 4;
+  }
+  .aboutSection-right {
+    flex: 3;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .aboutSection-left,
+  .aboutSection-right {
+    width: 100%;
+  }
+  .aboutSection-right {
+    margin-top: 3rem;
+  }
+  .SectionTitleStyle {
+    text-align: center;
+  }
+  .about-info {
+    margin: 0 auto;
+    margin-top: 2rem;
+  }
+  .aboutSection-buttons {
+    flex-direction: column;
+    gap: 0;
+  }
+  .button-conteiner,
+  a {
+    width: 100%;
+    text-align: center;
+  }
+}

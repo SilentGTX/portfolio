@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+body {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --dark-bg: #262626;
+  --gray-1: #bcb4b4;
+  --deep-dark: #1e1e1e;
+  --gray-2: #363636;
+  --white: white;
+  --black: black;
+}
+html {
+  font-size: 10px;
+  font-family: "Roboto Mono Regular";
+  background-color: var(--dark-bg);
+}
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img,
+svg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* [data-scrollbar] {
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--gray-1);
 }
+.scroll-content {
+  background-color: var(--dark-bg);
+}
+.scrollbar-track.scrollbar-track-y {
+  background: var(--deep-dark);
+}
+.scrollbar-thumb-y {
+  background: var(--gray-1);
+} */

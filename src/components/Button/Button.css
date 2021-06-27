@@ -1,0 +1,23 @@
+.button-conteiner {
+  margin-top: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .button {
+    font-size: 1.8rem;
+  }
+}
+.button {
+  font-size: 2.2rem;
+  background-color: var(--gray-1);
+  padding: 0.7em 2em;
+  border-radius: 8px;
+  display: inline-block;
+  border: 2px solid var(--gray-1);
+  color: rgb(0, 0, 0);
+}
+
+#outline-btn {
+  background-color: var(--dark-bg);
+  color: var(--gray-1);
+}

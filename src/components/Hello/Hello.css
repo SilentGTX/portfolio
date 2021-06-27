@@ -1,0 +1,172 @@
+* {
+  font-family: "Roboto Mono Regular";
+  color: var(--gray-1);
+}
+
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.heading {
+  font-size: 2rem;
+  margin-bottom: -4rem;
+  position: relative;
+}
+
+.heading span {
+  display: inline-block;
+  width: 100%;
+}
+
+.name {
+  font-family: "Montserrat SemiBold";
+  font-size: 7rem;
+  color: var(--white);
+  margin-bottom: 5px;
+}
+
+/* .image-container {
+  text-align: center;
+} */
+
+.ivan-info {
+  font-family: "Roboto Mono Regular";
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 1.8rem;
+  line-height: 1.3em;
+  margin-top: -18rem;
+}
+
+.ivan-img {
+  max-width: 900px;
+  width: 100%;
+  height: 600px;
+  margin: 0 auto;
+  border: 2px solid var(--gray-1);
+}
+
+/* img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+.IvanStyles .ivan {
+  height: 100vh;
+  min-height: 1000px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-top: -90px;
+}
+
+.ivan-social,
+.ivan-scrollDown {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  position: absolute;
+  bottom: 20px;
+  width: 50px;
+}
+
+.ivan-social {
+  left: 50px;
+}
+
+.ivan-scrollDown {
+  right: 50px;
+}
+
+.ivan-social-indicator,
+.ivan-scrollDown {
+  width: 50px;
+}
+
+.ivan-social-indicator p,
+.ivan-scrollDown p {
+  font-size: 1.6rem;
+  transform: translateY(-70px) rotate(90deg);
+  letter-spacing: 0.7rem;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+#arrows {
+  max-height: 45px;
+  width: 16px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.arrow-right {
+  max-height: 70px;
+}
+
+.ivan-social-info ul li {
+  margin-bottom: 1rem;
+}
+
+.ivan-social-info ul li a {
+  display: inline-block;
+  font-size: 1.6rem;
+  transform: rotate(-90deg);
+  letter-spacing: 5px;
+  margin-bottom: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .ivan {
+    min-height: 750px;
+  }
+  .heading {
+    font-size: 1.4rem;
+    margin-bottom: -3rem;
+  }
+  .name {
+    font-size: 4.5rem;
+  }
+  .IvanStyles .ivan {
+    height: 0vh;
+  }
+  .ivan-img {
+    height: 300px;
+  }
+  .ivan-info {
+    margin-top: 5rem;
+  }
+  .ivan-social {
+    left: 0px;
+    bottom: 5%;
+    width: 20px;
+  }
+  .ivan-social-indicator {
+    width: 20px;
+  }
+  .ivan-social p,
+  .ivan-social-indicator p {
+    font-size: 1.2rem;
+  }
+  #arrows {
+    max-height: 32px;
+  }
+  .ivan-social-info ul li a {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  .ivan-scrollDown {
+    right: 0;
+    width: 20px;
+    gap: 1rem;
+  }
+  .ivan-scrollDown p {
+    font-size: 1.3rem;
+  }
+}

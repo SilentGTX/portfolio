@@ -1,0 +1,17 @@
+.ItemStyles {
+  text-align: center;
+}
+
+.servicesItem-icon svg {
+  width: 3rem;
+}
+
+.servicesItem-title {
+  font-size: 2.5rem;
+  font-family: "Montserrat SemiBold";
+}
+
+.servicesItem-text {
+  margin-top: 2rem;
+  font-size: 18px;
+}
