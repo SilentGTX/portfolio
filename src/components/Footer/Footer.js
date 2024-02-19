@@ -49,8 +49,8 @@ export default function Footer() {
                 path: "tel:+359882280825",
               },
               {
-                title: "slntgtx@gmail.com",
-                path: "slntgtx@gmail.com",
+                title: "ivan.budinow@gmail.com",
+                path: "ivan.budinow@gmail.com",
               },
               {
                 title: "Sofia, Bulgaria",
