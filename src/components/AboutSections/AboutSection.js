@@ -14,7 +14,7 @@ export default function AboutSection() {
             me=" me"
           />
           <div className="about-info">
-            I am a freelance website designer and developer from Sofia,
+            I am a website designer and developer from Sofia,
             Bulgaria. I create professional websites. I love art and always try
             to show unique views through my design.
           </div>
