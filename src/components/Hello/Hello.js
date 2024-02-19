@@ -17,7 +17,7 @@ export default function Hello() {
             <img className="ivan-img" src="az.png" alt="" />
           </div>
           <div className="ivan-info">
-            I am currently studying software engineering. I love to design and
+            I am currently working as software developer. I love to design and
             make new web experiences for the people
           </div>
           <Button id="button" btnLink="/projects" btnText="See my work" />
