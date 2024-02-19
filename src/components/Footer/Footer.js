@@ -78,7 +78,7 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <div className="copyright-text">
-            © 2021 - Portfolio| Designed By Ivan Budinov
+            © 2024 - Portfolio| Designed By Ivan Budinov
           </div>
         </div>
       </div>
